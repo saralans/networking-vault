@@ -17,7 +17,7 @@ You are drafting an outreach message using a contact page in the user's Notion N
 4. Draft the message the user requests.
 5. Write the Messages section content to `/tmp/messages_<name>.md`:
    ```
-   ### [Message type] — [Date]
+   ### [Message type]
    [Draft here]
    ---
    ```
