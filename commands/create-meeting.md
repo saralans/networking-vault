@@ -33,9 +33,6 @@ You are creating a new contact page in the user's Notion Networking database.
 - **Topics discussed:**
 - **Advice given:** (if any)
 
-## History
-- **[Date] — [Event type]:** [description]
-
 ## Learning
 
 What you'd learn:
@@ -50,8 +47,11 @@ person's domain. Why this is a real conversation, not generic networking.]
 ## Open Questions
 - [Questions focused on learning, not relationship management]
 
+## Meeting
+
 ## Messages
 
+## Jobs
 ```
 
 ## How to write the Learning section
@@ -70,7 +70,7 @@ person's domain — explain why the conversation is technically grounded, not ge
 
 ## Rules
 - Never invent facts, meetings, emails, or relationship history.
-- Do NOT generate the Messages section content unless the user explicitly asks.
+- Do NOT populate Meeting, Messages, or Jobs sections on creation — leave them empty.
 - One precise insight beats three vague bullets.
 - If a date is provided, use it. If not, leave date fields as "(date unknown)".
 - `--where` must be a single word or short phrase (it's a multi_select tag in Notion).
