@@ -8,7 +8,7 @@ Built for people who network to learn, not just to collect contacts.
 
 ## Why I built this
 
-During Boston Tech Week, I was networking with dozens of high-value connections a day — founders, engineers, investors, researchers — and the bottleneck wasn't meeting people. It was acting on those meetings fast enough to matter. Follow-ups slipped, context got stale, and the value of each conversation faded before I could do anything with it.
+During the 2026 Boston Tech Week, I was networking with dozens of high-value connections a day — founders, engineers, investors, researchers — and the bottleneck wasn't meeting people. It was acting on those meetings fast enough to matter. Follow-ups slipped, context got stale, and the value of each conversation faded before I could do anything with it.
 
 So I automated the notes. Now every meeting goes straight into Notion, structured and searchable, with a tailored learning section written by Claude based on my specific goals. The human part stayed human. The paperwork disappeared.
 
