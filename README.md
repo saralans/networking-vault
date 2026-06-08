@@ -34,6 +34,9 @@ Claude writes directly to Notion via the API. No copy-paste.
 | `/create-meeting` | New contact page from notes, LinkedIn, or conversation |
 | `/extract-learning` | Deepens the Learning section using your profile |
 | `/draft-message` | Drafts LinkedIn DMs, emails, or texts grounded in real context |
+| `/log-meeting` | Logs notes from a completed meeting into the Meeting section |
+| `/prep-meeting` | Generates a Preparation section for an upcoming meeting |
+| `/add-job` | Adds a job listing to a contact's Jobs section |
 
 ---
 
@@ -141,6 +144,9 @@ networking-vault/
 ├── commands/
 │   ├── create-meeting.md           # /create-meeting command
 │   ├── extract-learning.md         # /extract-learning command
-│   └── draft-message.md            # /draft-message command
+│   ├── draft-message.md            # /draft-message command
+│   ├── log-meeting.md              # /log-meeting command
+│   ├── prep-meeting.md             # /prep-meeting command
+│   └── add-job.md                  # /add-job command
 └── README.md
 ```
