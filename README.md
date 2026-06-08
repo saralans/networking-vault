@@ -33,7 +33,6 @@ Claude writes directly to Notion via the API. No copy-paste.
 |---------|-------------|
 | `/create-meeting` | New contact page from notes, LinkedIn, or conversation |
 | `/extract-learning` | Deepens the Learning section using your profile |
-| `/update-history` | Logs new interactions, updates checkboxes |
 | `/draft-message` | Drafts LinkedIn DMs, emails, or texts grounded in real context |
 
 ---
@@ -142,7 +141,6 @@ networking-vault/
 ├── commands/
 │   ├── create-meeting.md           # /create-meeting command
 │   ├── extract-learning.md         # /extract-learning command
-│   ├── update-history.md           # /update-history command
 │   └── draft-message.md            # /draft-message command
 └── README.md
 ```
